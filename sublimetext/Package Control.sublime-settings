@@ -1,0 +1,32 @@
+{
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Alignment",
+		"Extract Sublime Package",
+		"FileDiffs",
+		"Fold Python Docstrings",
+		"Handlebars",
+		"Indent XML",
+		"INI",
+		"JSHint Gutter",
+		"Markdown Preview",
+		"QML",
+		"Sublimall",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-lua",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"SummitEditor",
+		"SummitLinter",
+		"WordCount",
+		"zenburn"
+	],
+	"repositories":
+	[
+		"https://github.com/eric-wieser/build-with-input.git"
+	]
+}

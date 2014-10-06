@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+-"], "command": "fold_python_docstrings" },
+	{ "keys": ["ctrl+shift+="], "command": "unfold_python_docstrings" },
+]

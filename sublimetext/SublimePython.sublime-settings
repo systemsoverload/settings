@@ -1,0 +1,16 @@
+{
+    "python_linting": true,
+    "python_linter_mark_style": "outline",
+    "python_linter_gutter_marks_theme": "alpha",
+    "pep8_ignore": ["E202","E221", "E201", "E203", "E501"],
+    "pyflakes_ignore": ["_", "settings"],
+}
+
+
+    // // Linter settings
+    // "python_linter_mark_style": "outline", // "none" or "outline"
+    // "python_linter_gutter_marks": true,
+    // "python_linter_gutter_marks_theme": "simple", // see folder gutter_mark_themes
+    // "pep8": true,
+    // "pep8_ignore": [],
+    // "pyflakes_ignore": []

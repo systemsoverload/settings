@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/User/zenburn (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"extract_sublime_package_ask_on_open": true,
+	"font_face": "consolas",
+	"font_options":
+	[
+		"standardantialias"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true
+}
