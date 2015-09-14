@@ -1,0 +1,12 @@
+# Programs that will run after Openbox has started
+
+# Set the wallpaper
+hsetroot ~/documents/wallpaper.jpg &
+
+# Run a Composite manager
+xcompmgr -c -t-5 -l-5 -r4.2 -o.55 &
+
+guake &
+tint2 &
+cbatticon &
+xbindkeys &
